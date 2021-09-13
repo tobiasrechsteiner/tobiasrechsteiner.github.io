@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: normal;
+}
+
+section {
+
+}
+
+.black {
+    background-color: black;
+    color: white;
+    padding: 10% 0;
+}
+
+article {
+    margin: 10% 10% 10% 10%;
+}
